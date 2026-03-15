@@ -11,6 +11,7 @@ The analysis focuses on improving the organization’s cybersecurity governance 
 Fielder Medical Center implemented a new digital system to manage doctor licensing documentation and professional credentials. Physicians upload licensing artifacts containing sensitive personally identifiable information (PII) such as:
 
 -Legal names
+
 -Home addresses
 -Social Security numbers
 -Professional certification documentation
