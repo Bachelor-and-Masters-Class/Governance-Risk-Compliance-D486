@@ -13,7 +13,9 @@ Fielder Medical Center implemented a new digital system to manage doctor licensi
 -Legal names
 
 -Home addresses
+
 -Social Security numbers
+
 -Professional certification documentation
 
 This system must also be accessible by government auditors to verify compliance for continued federal funding.
@@ -27,9 +29,13 @@ The purpose of this assignment was to evaluate the findings of the external secu
 Key objectives included:
 
 -Identifying gaps in the organization’s security framework
+
 -Evaluating the risks associated with identified security controls
+
 -Justifying remediation decisions based on federal cybersecurity standards
+
 -Developing remediation strategies aligned with NIST guidance
+
 -Creating a PCI DSS–compliant security policy for new payment systems
 
 **Security Controls Evaluated**
@@ -37,9 +43,13 @@ Key objectives included:
 The assignment required analysis of five security controls identified in the Security Assessment Report:
 
 -AC-6 – Least Privilege
+
 -CA-5 – Plan of Action and Milestones (POA&M)
+
 -CA-7 – Continuous Monitoring
+
 -RA-3 – Risk Assessment
+
 -RA-7 – Risk Response
 
 Each control was evaluated to determine risk level, potential impact, and whether remediation was required to maintain compliance with federal cybersecurity regulations.
@@ -49,16 +59,23 @@ Each control was evaluated to determine risk level, potential impact, and whethe
 A remediation plan was developed for each identified control. The plan included:
 
 -Required security tools and technologies
+
 -Policy updates and governance improvements
+
 -Organizational changes
+
 -Implementation actions aligned with federal security frameworks
 
 Examples of remediation measures include:
 
 -Implementing Role-Based Access Control (RBAC) and multifactor authentication (MFA)
+
 -Establishing a formal Plan of Action and Milestones (POA&M)
+
 -Deploying continuous monitoring tools such as SIEM and vulnerability scanners
+
 -Conducting updated risk assessments following major system changes
+
 -Creating a formal risk response framework
 
 **PCI DSS Security Policy**
@@ -78,10 +95,15 @@ Roles and responsibilities were defined for IT administrators, security analysts
 This project demonstrates applied cybersecurity and governance skills, including:
 
 -Cybersecurity risk assessment
+
 -Security control evaluation
+
 -Governance, risk, and compliance (GRC) analysis
+
 -NIST framework implementation
+
 -Security policy development
+
 -Federal compliance analysis
 
 **Repository Contents**
