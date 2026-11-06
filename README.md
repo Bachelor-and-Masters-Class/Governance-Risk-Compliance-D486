@@ -1,6 +1,6 @@
 # Hospital Security Review
 
-**WGU D486 · Governance, Risk and Compliance (DFN1 Task 1)**
+**WGU D486 · Governance, Risk, and Compliance · Task 1**
 
 I played the CISO of Fielder Medical Center. An outside firm audited the hospital's new system for doctors' license files, which hold names, home addresses and Social Security numbers. Government auditors also need access to it to keep federal funding flowing. My job was to review the audit, judge the risks and write the fix plan.
 
